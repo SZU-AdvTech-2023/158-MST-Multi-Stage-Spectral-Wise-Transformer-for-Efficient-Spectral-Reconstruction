@@ -1,0 +1,7 @@
+@inproceedings{REPO158,
+    author = "Cai, Yuanhao and Lin, Jing and Lin, Zudi and Wang, Haoqian and Zhang, Yulun and Pfister, Hanspeter and Timofte, Radu and Van Gool, Luc",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "745--755",
+    title = "{MST++: Multi-Stage Spectral-Wise Transformer for Efficient Spectral Reconstruction}",
+    year = "2022"
+}
